@@ -1,0 +1,209 @@
+.frstBar {
+    padding: 100px 50px;
+    width: 50%;
+    border: 1px solid black; 
+    max-width: 600px;
+   /*width: 500px;*/
+}
+
+.frstBar2 {
+    width:600px;
+    background-image: url("./images/desktop/image-transform.jpg");
+    background-size: cover;
+    background-position: center;
+    width: 70%;
+} 
+
+
+.container1 {
+    display: flex;
+}
+
+.title {
+    padding-bottom:250px;
+    padding-top: 200px;
+    margin: 0;
+    color: white;
+    font-size: 80px;
+    background-image: url("./images/desktop/image-header.jpg");
+    background-size: cover;
+    background-position: center;
+    text-align: center;
+}
+
+body {
+    font-size: 18px;
+    font-family: "Fraunces", serif;
+}
+
+.topnav {
+    background-color: rgb(70, 193, 255);
+    overflow: hidden;
+    padding: 10px;
+}
+
+.topnav a {
+    float: right;
+    display: inline;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+
+
+
+.container2 {
+    display: flex;
+}
+
+.scndBar {
+    padding: 100px 50px;
+    width: 50%;
+    border: 1px solid black; 
+    max-width: 600px;
+}
+
+.scndBar2 {
+    width: 100%;
+    background-image: url("./images/desktop/image-stand-out.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+.container3 {
+    display: flex;
+}
+  
+.graphic {
+    background-image: url("./images/desktop/image-graphic-design.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 100px 50px;
+    text-align: center;
+}
+
+.photography {
+    background-image: url("./images/desktop/image-photography.jpg");
+    background-size: cover;
+    background-position: center;
+    padding: 100px 50px;
+    text-align: center;
+}
+
+.clientTestim {
+    padding-top: 100px;
+    border: 1px solid black;
+}
+
+#clienthead {
+    text-align: center;
+}
+
+.clientContainer {
+    display: flex;
+}
+
+
+
+.client1 {
+    text-align: center;
+    padding: 50px;
+}
+
+.c1photo img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.c1photo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.client2 {
+    text-align: center;
+    padding: 50px;
+}
+
+.c2photo img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.c2photo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.client3 {
+    text-align: center;
+    padding: 50px;
+}
+
+.c3photo img {
+    border-radius: 50%;
+    width: 100px;
+}
+
+.c3photo {
+    margin: 0 auto;
+    text-align: center;
+}
+
+.bottomimg div{
+    width: 25%;
+    height: 500px;
+    background-size: cover;
+    background-position: center;
+}
+.bottomimg {
+    display: flex;
+}
+
+.img1 {
+    background-image: url("./images/desktop/image-gallery-milkbottles.jpg");
+}
+
+.img2 {
+    background-image: url("./images/desktop/image-gallery-orange.jpg");
+}
+
+.img3 {
+    background-image: url("./images/desktop/image-gallery-cone.jpg");
+}
+
+.img4 {
+    background-image: url("./images/desktop/image-gallery-sugarcubes.jpg");
+}
+
+.bottomnav {
+    background-color: hsl(172, 31%, 73%);
+    color: hsl(168, 39%, 25%);
+}
+
+.bottomnav {
+    padding: 100px 25px;
+}
+
+.bottomnav h3 {
+    text-align: center;
+    padding: 50px;
+}
+
+.links {
+    text-align: center;
+}
+
+.links a  {
+    padding-right: 40px;
+    padding-left: 40px;
+    text-decoration: none;
+    color: hsl(168, 39%, 25%);
+}
+
+button {
+    background-color: black;
+    color: white;
+}
