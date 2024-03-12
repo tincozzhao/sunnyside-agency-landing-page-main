@@ -8,7 +8,7 @@
 
 .frstBar2 {
     width:600px;
-    background-image: url("./images/desktop/image-transform.jpg");
+    background-image: url("https://i.pinimg.com/564x/13/b4/94/13b494c149b7a66c01718b58e1ade9c1.jpg");
     background-size: cover;
     background-position: center;
     width: 70%;
@@ -25,7 +25,7 @@
     margin: 0;
     color: white;
     font-size: 80px;
-    background-image: url("./images/desktop/image-header.jpg");
+    background-image: url("https://i.pinimg.com/originals/93/0f/46/930f4690ed8288c6f55244a6a5fe4875.jpg");
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -37,7 +37,7 @@ body {
 }
 
 .topnav {
-    background-color: rgb(70, 193, 255);
+    background-image: url("https://i.pinimg.com/originals/93/0f/46/930f4690ed8288c6f55244a6a5fe4875.jpg");
     overflow: hidden;
     padding: 10px;
 }
@@ -67,7 +67,7 @@ body {
 
 .scndBar2 {
     width: 100%;
-    background-image: url("./images/desktop/image-stand-out.jpg");
+    background-image: url("https://images2.minutemediacdn.com/image/upload/c_fill,w_1440,ar_16:9,f_auto,q_auto,g_auto/shape%2Fcover%2Fsport%2Fbooksbookshed-c35d6c7bc2f118403bc5f35d151cc087.jpg");
     background-size: cover;
     background-position: center;
 }
@@ -77,7 +77,7 @@ body {
 }
   
 .graphic {
-    background-image: url("./images/desktop/image-graphic-design.jpg");
+    background-image: url("https://i.pinimg.com/originals/b9/95/c2/b995c2b03be5ace6189b50033ad0ef49.jpg");
     background-size: cover;
     background-position: center;
     padding: 100px 50px;
@@ -85,7 +85,7 @@ body {
 }
 
 .photography {
-    background-image: url("./images/desktop/image-photography.jpg");
+    background-image: url("https://i.pinimg.com/originals/ef/12/f7/ef12f74c54e884c490f2277a884199ea.jpg");
     background-size: cover;
     background-position: center;
     padding: 100px 50px;
@@ -163,24 +163,24 @@ body {
 }
 
 .img1 {
-    background-image: url("./images/desktop/image-gallery-milkbottles.jpg");
+    background-image: url("https://i.pinimg.com/originals/4a/4e/d6/4a4ed6dd7448863c047125728e5eacdf.jpg");
 }
 
 .img2 {
-    background-image: url("./images/desktop/image-gallery-orange.jpg");
+    background-image: url("https://i.pinimg.com/originals/52/de/26/52de267228f31786fafb10a71f6726d6.jpg");
 }
 
 .img3 {
-    background-image: url("./images/desktop/image-gallery-cone.jpg");
+    background-image: url("https://i.pinimg.com/564x/7b/f4/4b/7bf44bd0060e7bc030bf4acf60586f2b.jpg");
 }
 
 .img4 {
-    background-image: url("./images/desktop/image-gallery-sugarcubes.jpg");
+    background-image: url("https://i.pinimg.com/564x/06/21/02/06210233f5bfe4e672e0bfc074a5852e.jpg");
 }
 
 .bottomnav {
-    background-color: hsl(172, 31%, 73%);
-    color: hsl(168, 39%, 25%);
+    background-color: hsl(79, 12%, 50%);
+    color: hsl(98, 39%, 16%);
 }
 
 .bottomnav {
@@ -200,7 +200,7 @@ body {
     padding-right: 40px;
     padding-left: 40px;
     text-decoration: none;
-    color: hsl(168, 39%, 25%);
+    color: hsl(98, 39%, 16%);
 }
 
 button {
